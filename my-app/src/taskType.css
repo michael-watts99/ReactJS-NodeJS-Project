@@ -1,0 +1,15 @@
+.header
+{
+    margin-bottom: 0;
+    margin-right: 5px;
+    padding-left: 10px;
+}
+.radioButtonsLabels
+{
+    padding-left: 20px;
+}
+.radioButtons
+{
+    width: 15px;
+    height: 15px;
+}
